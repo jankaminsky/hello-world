@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+
+Name's Jan and I am learning as I go.
